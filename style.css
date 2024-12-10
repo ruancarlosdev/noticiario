@@ -4,10 +4,10 @@ body {
     margin: 0;
     padding: 0;
     background-color: #f4f4f4;
-    color: #575555;
+    color: #524c4c;
 }
 header {
-    background-color: #992900;
+    background-color: #ec0606;
     color: white;
     text-align: center;
     padding: 20px 0;
@@ -41,7 +41,8 @@ section {
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 img {
-    width: 100%;
+    width: 300px;
+    height: 200px;
     border-radius: 8px;
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
 }
